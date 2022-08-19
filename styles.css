@@ -1,4 +1,11 @@
 body {
-    color: #fffffa;
-    background-color: #3c3633;
+        color: #fffffa;
+        background-color: #3c3633;
+    }
+h1 {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
   }
